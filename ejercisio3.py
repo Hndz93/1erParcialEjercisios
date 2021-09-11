@@ -1,4 +1,4 @@
- InicioSesion = ("Nombre y clave"):
+ InicioSesion = ("Nombre y clave")
 print ("Ingrese Usuario : ")
 usuario = input("Parcial")
 print ("Ingrese Clave : ")
